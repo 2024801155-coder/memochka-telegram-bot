@@ -1,0 +1,10 @@
+public/**/*.html linguist-vendored
+
+build/* linguist-vendored
+*.ts linguist-detectable
+vendor/* linguist-vendored
+
+*.tsx linguist-detectable
+*.html linguist-vendored
+
+# eof 9d4fd3fd
